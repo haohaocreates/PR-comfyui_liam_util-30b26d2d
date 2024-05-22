@@ -1,0 +1,15 @@
+[project]
+name = "comfyui_liam_util"
+description = "Nodes: LiamLoadImage. This node provides the capability to load images from a URL."
+version = "1.0.0"
+license = "LICENSE"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/ai-liam/comfyui_liam_util"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui_liam_util"
+Icon = ""
